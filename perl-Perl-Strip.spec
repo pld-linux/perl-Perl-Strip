@@ -4,7 +4,6 @@
 
 %define		pdir	Perl
 %define		pnam	Strip
-%include	/usr/lib/rpm/macros.perl
 Summary:	Perl::Strip - reduce file size by stripping whitespace, comments, pod etc.
 Name:		perl-Perl-Strip
 Version:	1.1
